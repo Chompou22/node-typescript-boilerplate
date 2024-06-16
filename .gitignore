@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+.vscode/
+logs/
+src/configs/development.json
+coverage/
+public
